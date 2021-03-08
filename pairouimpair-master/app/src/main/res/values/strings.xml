@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PairOuImpair</string>
+    <string name="afficher_valeur">Veuillez saisir un nombre.</string>
+    <string name="nombre_pair">Votre nombre est pair.</string>
+    <string name="nombre_impair">Votre nombre est impair.</string>
+    <string name="erreur">Erreur! Vous avez saisi une chaîne de caractère,ou autre valeur.</string>
+    <string name="validez">Validez</string>
+    <string name="effacer">Effacer</string>
+</resources>
